@@ -12,3 +12,6 @@ And With an Amazing GUI (Graphical User Interface)
 Official Website: Coming Soon :)
 
 ***Note: The App Is In Beta Version and May Not Work Correctly***
+
+# Installation Instruction
+
