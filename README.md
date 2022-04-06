@@ -23,7 +23,7 @@ Way 1:
 
 3.) Install The App (Follow The Instruction GIF)
 
-
+https://github.com/sepehrgithub/Voidz/blob/main/Way%201%20Installation%20Instruction%20smaller%20size%20.gif
 
 # Installation Instruction Way 2
 
