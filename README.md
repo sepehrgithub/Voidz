@@ -21,9 +21,7 @@ Way 1:
 
 2.) Open it
 
-3.) Install The App (Follow The Instruction GIF)
-
-![image](https://user-images.githubusercontent.com/78534638/161947412-f38dabad-3d0c-43ff-b5b8-0b065b2cda97.png)
+3.) Install The App
 
 # Installation Instruction Way 2
 
