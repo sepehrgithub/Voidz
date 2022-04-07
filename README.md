@@ -31,4 +31,4 @@ Way 1:
 
 3.) Wait for it to Download And Install Voidz
 
-***Note: If you want to use this way you should always open the app using The Updater (This is why we recommend Way 1)***
+***Note: If you want to use this way The app may not work correctly! Because The Updater will just update the app and it don't install it so the app files may not work correctly and intalled! (This is why we recommend Way 1)***
