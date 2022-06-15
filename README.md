@@ -17,7 +17,7 @@ Official Website: Coming Soon :)
 
 Way 1:
 
-1.) Download Voidz Setup.msi
+1.) Download Voidz Setup.msi at https://github.com/sepehrgithub/Voidz/releases
 
 2.) Open it
 
