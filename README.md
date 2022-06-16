@@ -13,6 +13,9 @@ Official Website: [Voidz Website](https://sepehrgithub.github.io/Voidz/)
 
 ***Note: The App Is In Beta Version and May Not Work Correctly***
 
+# VoidzCE (Voidz Community Edition)
+
+
 # Installation Instruction Way 1 (Recommended Way)
 
 Way 1:
