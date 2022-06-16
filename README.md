@@ -7,9 +7,9 @@ Voidz includes online programming trainings, music, a chat section like discord,
 
 And With an Amazing GUI (Graphical User Interface)
 
-(This Project is Not Open Source Dude :/)
+(Going to be Open Source soon after Releasing Official Verison!)
 
-Official Website: Coming Soon :)
+Official Website: [Voidz Website](https://sepehrgithub.github.io/Voidz/)
 
 ***Note: The App Is In Beta Version and May Not Work Correctly***
 
