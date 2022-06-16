@@ -17,18 +17,18 @@ Official Website: Coming Soon :)
 
 Way 1:
 
-1.) Download Voidz Setup.msi at https://github.com/sepehrgithub/Voidz/releases
-
-2.) Open it
-
-3.) Install The App
+>1.) Download Voidz Setup.msi at https://github.com/sepehrgithub/Voidz/releases
+>
+>2.) Open it
+>
+>3.) Install The App
 
 # Installation Instruction Way 2
 
-1.) Download Voidz Updater.exe
-
-2.) Open It
-
-3.) Wait for it to Download And Install Voidz
+>1.) Download Voidz Updater.exe
+>
+>2.) Open It
+>
+>3.) Wait for it to Download And Install Voidz
 
 ***Note: If you want to use this way The app may not work correctly! Because The Updater will just update the app and it don't install it so the app files may not work correctly and intalled! (This is why we recommend Way 1)***
