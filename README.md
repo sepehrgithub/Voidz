@@ -14,13 +14,13 @@ Official Website: [Voidz Website](https://sepehrgithub.github.io/Voidz/)
 ***Note: The App Is In Beta Version and May Not Work Correctly***
 
 # VoidzCE (Voidz Community Edition)
-
+Thanks to [Ariez](https://github.com/AriezProjects/VoidzCE) for Developing the Modified version of Voidz
 
 # Installation Instruction Way 1 (Recommended Way)
 
 Way 1:
 
->1.) Download Voidz Setup.msi at [Voidz Releases](https://github.com/sepehrgithub/Voidz/releases)
+>1.) Download Voidz Setup at [Voidz Releases](https://github.com/sepehrgithub/Voidz/releases)
 >
 >2.) Open it
 >
